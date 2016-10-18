@@ -13,6 +13,10 @@ namespace CalculateSumOfDigits
             CalculateSumOfDigits();
         }
 
+        /// <summary>
+        /// Program to calculate the sum of the digits of a 5 digit number input by the user.
+        /// </summary>
+        
         static void CalculateSumOfDigits()
         {
             int number = 0, sum = 0;
