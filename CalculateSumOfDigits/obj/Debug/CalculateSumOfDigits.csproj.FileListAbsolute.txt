@@ -1,0 +1,6 @@
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\CalculateSumOfDigits\CalculateSumOfDigits\bin\Debug\CalculateSumOfDigits.exe.config
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\CalculateSumOfDigits\CalculateSumOfDigits\bin\Debug\CalculateSumOfDigits.exe
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\CalculateSumOfDigits\CalculateSumOfDigits\bin\Debug\CalculateSumOfDigits.pdb
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\CalculateSumOfDigits\CalculateSumOfDigits\obj\Debug\CalculateSumOfDigits.csprojResolveAssemblyReference.cache
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\CalculateSumOfDigits\CalculateSumOfDigits\obj\Debug\CalculateSumOfDigits.exe
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\CalculateSumOfDigits\CalculateSumOfDigits\obj\Debug\CalculateSumOfDigits.pdb
